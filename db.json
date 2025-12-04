@@ -1,5 +1,203 @@
 {
-    "test": [
-        { "id": 1, "status": "working" }
+    "characters": [
+        {
+            "id": 1,
+            "name": "Yakko Warner",
+            "species": "Cartoonus warnerus (unknown toon)",
+            "gender": "Male",
+            "age": "14 (claims to be older)",
+            "voicedBy": "Rob Paulsen",
+            "personality": "Wise-cracking, fast-talking leader",
+            "catchphrase": "Helloooo, nurse!",
+            "firstAppearance": "De-Zanitized (1993)",
+            "isWarnerSibling": true
+        },
+        {
+            "id": 2,
+            "name": "Wakko Warner",
+            "species": "Cartoonus warnerus (unknown toon)",
+            "gender": "Male",
+            "age": "11",
+            "voicedBy": "Jess Harnell",
+            "personality": "Goofy, hungry, mallet-wielding middle child",
+            "catchphrase": "Faboo!",
+            "gag": "Bag of tricks (pulls anything out)",
+            "firstAppearance": "De-Zanitized (1993)",
+            "isWarnerSibling": true
+        },
+        {
+            "id": 3,
+            "name": "Dot Warner",
+            "fullName": "Princess Angelina Contessa Louisa Francesca Banana Fanna Bo Besca III",
+            "species": "Cartoonus warnerus (unknown toon)",
+            "gender": "Female",
+            "age": "10",
+            "voicedBy": "Tress MacNeille",
+            "personality": "Sassy, cute but deadly, loves animals",
+            "catchphrase": "Boys? Go fig.",
+            "pet": "Cute things only she sees as monsters",
+            "firstAppearance": "De-Zanitized (1993)",
+            "isWarnerSibling": true
+        },
+        {
+            "id": 4,
+            "name": "Pinky",
+            "species": "Lab mouse",
+            "gender": "Male",
+            "voicedBy": "Rob Paulsen",
+            "segment": "Pinky and the Brain",
+            "personality": "Cheerful, dim-witted sidekick",
+            "catchphrase": "Narf! Poit! Zort! Troz!",
+            "goal": "Helps Brain take over the world"
+        },
+        {
+            "id": 5,
+            "name": "The Brain",
+            "species": "Genetically altered lab mouse",
+            "gender": "Male",
+            "voicedBy": "Maurice LaMarche",
+            "segment": "Pinky and the Brain",
+            "personality": "Megalomaniacal genius",
+            "catchphrase": "Are you pondering what I'm pondering?",
+            "goal": "Take over the world"
+        },
+        {
+            "id": 6,
+            "name": "Dr. Otto Scratchansniff",
+            "role": "Studio psychiatrist",
+            "voicedBy": "Rob Paulsen",
+            "personality": "Frustrated, balding, kind-hearted"
+        },
+        {
+            "id": 7,
+            "name": "Hello Nurse",
+            "role": "Studio nurse/receptionist",
+            "voicedBy": "Tress MacNeille",
+            "gag": "Yakko & Wakko yell 'Helloooo, nurse!'"
+        },
+        {
+            "id": 8,
+            "name": "Thaddeus Plotz",
+            "role": "Warner Bros. CEO",
+            "voicedBy": "Frank Welker",
+            "personality": "Short-tempered, greedy"
+        },
+        {
+            "id": 9,
+            "name": "Ralph T. Guard",
+            "role": "Studio security guard",
+            "voicedBy": "Frank Welker",
+            "personality": "Dim-witted, always chasing the Warners"
+        },
+        {
+            "id": 10,
+            "name": "Slappy Squirrel",
+            "species": "Anthropomorphic squirrel",
+            "voicedBy": "Sherri Stoner",
+            "segment": "Slappy & Skippy",
+            "personality": "Grumpy, explosives-loving veteran cartoon star"
+        },
+        {
+            "id": 11,
+            "name": "Skippy Squirrel",
+            "species": "Anthropomorphic squirrel",
+            "voicedBy": "Nathan Ruegger",
+            "personality": "Cheerful, innocent nephew",
+            "catchphrase": "Spew!"
+        },
+        {
+            "id": 12,
+            "name": "Goodfeathers (Pesto, Squit, Bobby)",
+            "species": "Pigeons",
+            "voicedBy": "Maurice LaMarche, John Mariano, Chick Vennera",
+            "parody": "Goodfellas",
+            "location": "Statue of Liberty"
+        },
+        {
+            "id": 13,
+            "name": "Buttons",
+            "species": "Dog",
+            "voicedBy": "Frank Welker",
+            "segment": "Buttons & Mindy",
+            "personality": "Heroic, long-suffering babysitter dog"
+        },
+        {
+            "id": 14,
+            "name": "Mindy",
+            "species": "Human toddler",
+            "voicedBy": "Nancy Cartwright",
+            "catchphrases": "Okay, I love you, bye-bye!, Buttons sad?"
+        },
+        {
+            "id": 15,
+            "name": "Minerva Mink",
+            "species": "Anthropomorphic mink",
+            "voicedBy": "Cree Summer (original), Grey DeLisle (reboot)",
+            "personality": "Gorgeous, causes wolves to go crazy"
+        },
+        {
+            "id": 16,
+            "name": "The Hip Hippos",
+            "names": "Flavius & Marita",
+            "voicedBy": "Frank Welker, Tress MacNeille",
+            "parody": "Upper-class society"
+        },
+        {
+            "id": 17,
+            "name": "Mr. Skullhead",
+            "gag": "Appears in Good Idea/Bad Idea segments",
+            "voicedBy": "None (silent)"
+        },
+        {
+            "id": 18,
+            "name": "Chicken Boo",
+            "species": "Giant chicken in disguise",
+            "voicedBy": "Frank Welker (clucks)",
+            "gag": "Everyone believes he's human until hat falls off"
+        },
+        {
+            "id": 19,
+            "name": "Katie Ka-Boom",
+            "species": "Teenage girl (turns into monster when angry)",
+            "voicedBy": "Laura Mooney"
+        },
+        {
+            "id": 20,
+            "name": "Rita",
+            "species": "Cat",
+            "voicedBy": "Bernadette Peters (original), Frank Welker (meows in reboot)",
+            "segment": "Rita & Runt"
+        },
+        {
+            "id": 21,
+            "name": "Runt",
+            "species": "Dog",
+            "voicedBy": "Frank Welker",
+            "personality": "Thinks Rita is a dog"
+        },
+        {
+            "id": 22,
+            "name": "Mr. Director",
+            "parody": "Jerry Lewis",
+            "voicedBy": "Paul Rugg"
+        },
+        {
+            "id": 23,
+            "name": "Baloney the Dinosaur",
+            "voicedBy": "Jeff Bennett",
+            "gag": "Annoyingly cheerful kids' show host"
+        },
+        {
+            "id": 24,
+            "name": "Starbox and Cindy",
+            "rebootSegment": true,
+            "description": "Tiny alien general trapped babysitting a toddler"
+        },
+        {
+            "id": 25,
+            "name": "Nile and Nora",
+            "rebootSegment": true,
+            "description": "Parody of influencer culture"
+        }
     ]
 }
