@@ -1,4 +1,4 @@
-{{
+{
     "title": "Animaniacs",
     "totalCharacters": 25,
     "characters": [
@@ -191,5 +191,4 @@
     ],
     "notes": "All main and recurring Animaniacs characters (original + reboot). No image URLs — pure data only.",
     "lastUpdated": "2025-12-03"
-}
 }
