@@ -1,0 +1,207 @@
+{
+  "title": "Animaniacs",
+  "totalCharacters": 25,
+  "characters": [
+    {
+      "name": "Yakko Warner",
+      "species": "Cartoonus warnerus (unknown toon)",
+      "gender": "Male",
+      "age": "14 (claims to be older)",
+      "voicedBy": "Rob Paulsen",
+      "personality": "Wise-cracking, fast-talking leader",
+      "catchphrase": "Helloooo, nurse!",
+      "firstAppearance": "De-Zanitized (1993)",
+      "isWarnerSibling": true,
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/0/0b/Yakko_2020.png/revision/latest?cb=20200812163647"
+    },
+    {
+      "name": "Wakko Warner",
+      "species": "Cartoonus warnerus (unknown toon)",
+      "gender": "Male",
+      "age": "11",
+      "voicedBy": "Jess Harnell",
+      "personality": "Goofy, hungry, mallet-wielding middle child",
+      "catchphrase": "Faboo!",
+      "gag": "Bag of tricks (pulls anything out)",
+      "firstAppearance": "De-Zanitized (1993)",
+      "isWarnerSibling": true,
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/1/11/Wakko_Warner.JPG/revision/latest?cb=20110626092307"
+    },
+    {
+      "name": "Dot Warner",
+      "fullName": "Princess Angelina Contessa Louisa Francesca Banana Fanna Bo Besca III",
+      "species": "Cartoonus warnerus (unknown toon)",
+      "gender": "Female",
+      "age": "10",
+      "voicedBy": "Tress MacNeille",
+      "personality": "Sassy, cute but deadly, loves animals",
+      "catchphrase": "Boys? Go fig.",
+      "pet": "Cute things only she sees as monsters",
+      "firstAppearance": "De-Zanitized (1993)",
+      "isWarnerSibling": true,
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/7/79/Dot_warner.jpg/revision/latest?cb=20110626092356"
+    },
+    {
+      "name": "Pinky",
+      "species": "Lab mouse",
+      "gender": "Male",
+      "voicedBy": "Rob Paulsen",
+      "segment": "Pinky and the Brain",
+      "personality": "Cheerful, dim-witted sidekick",
+      "catchphrase": "Narf! Poit! Zort! Troz!",
+      "goal": "Helps Brain take over the world",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/6/6a/Pinky.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "The Brain",
+      "species": "Genetically altered lab mouse",
+      "gender": "Male",
+      "voicedBy": "Maurice LaMarche",
+      "segment": "Pinky and the Brain",
+      "personality": "Megalomaniacal genius",
+      "catchphrase": "Are you pondering what I'm pondering?",
+      "goal": "Take over the world",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/7/7a/Brain.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Dr. Otto Scratchansniff",
+      "role": "Studio psychiatrist",
+      "voicedBy": "Rob Paulsen",
+      "personality": "Frustrated, balding, kind-hearted",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/9/9b/Dr._Otto_Scratchansniff_2020.png/revision/latest?cb=20200812163721"
+    },
+    {
+      "name": "Hello Nurse",
+      "role": "Studio nurse/receptionist",
+      "voicedBy": "Tress MacNeille",
+      "gag": "Yakko & Wakko yell 'Helloooo, nurse!'",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/4/4b/Hello_nurse.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Thaddeus Plotz",
+      "role": "Warner Bros. CEO",
+      "voicedBy": "Frank Welker",
+      "personality": "Short-tempered, greedy",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/2/2b/Plotz.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Ralph T. Guard",
+      "role": "Studio security guard",
+      "voicedBy": "Frank Welker",
+      "personality": "Dim-witted, always chasing the Warners",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/5/5a/Ralph.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Slappy Squirrel",
+      "species": "Anthropomorphic squirrel",
+      "voicedBy": "Sherri Stoner",
+      "segment": "Slappy & Skippy",
+      "personality": "Grumpy, explosives-loving veteran cartoon star",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/1/1a/Slappy.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Skippy Squirrel",
+      "species": "Anthropomorphic squirrel",
+      "voicedBy": "Nathan Ruegger",
+      "personality": "Cheerful, innocent nephew",
+      "catchphrase": "Spew!",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/9/9b/Skippy.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Goodfeathers (Pesto, Squit, Bobby)",
+      "species": "Pigeons",
+      "voicedBy": ["Maurice LaMarche", "John Mariano", "Chick Vennera"],
+      "parody": "Goodfellas",
+      "location": "Statue of Liberty",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/3/3e/Goodfeathers.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Buttons",
+      "species": "Dog",
+      "voicedBy": "Frank Welker",
+      "segment": "Buttons & Mindy",
+      "personality": "Heroic, long-suffering babysitter dog",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/7/7c/Buttons.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Mindy",
+      "species": "Human toddler",
+      "voicedBy": "Nancy Cartwright",
+      "catchphrases": ["Okay, I love you, bye-bye!", "Buttons sad?"],
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/2/2e/Mindy.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Minerva Mink",
+      "species": "Anthropomorphic mink",
+      "voicedBy": "Cree Summer (original), Grey DeLisle (reboot)",
+      "personality": "Gorgeous, causes wolves to go crazy",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/5/5b/Minerva.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "The Hip Hippos",
+      "names": ["Flavius & Marita"],
+      "voicedBy": ["Frank Welker", "Tress MacNeille"],
+      "parody": "Upper-class society",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/8/8a/Hiphippos.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Mr. Skullhead",
+      "gag": "Appears in Good Idea/Bad Idea segments",
+      "voicedBy": "None (silent)",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/4/4d/Skullhead.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Chicken Boo",
+      "species": "Giant chicken in disguise",
+      "voicedBy": "Frank Welker (clucks)",
+      "gag": "Everyone believes he's human until hat falls off",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/1/1f/Chickenboo.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Katie Ka-Boom",
+      "species": "Teenage girl (turns into monster when angry)",
+      "voicedBy": "Laura Mooney",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/6/6e/Katie.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Rita",
+      "species": "Cat",
+      "voicedBy": "Bernadette Peters (original), Frank Welker (meows in reboot)",
+      "segment": "Rita & Runt",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/9/9a/Rita.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Runt",
+      "species": "Dog",
+      "voicedBy": "Frank Welker",
+      "personality": "Thinks Rita is a dog",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/2/2f/Runt.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Mr. Director",
+      "parody": "Jerry Lewis",
+      "voicedBy": "Paul Rugg",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/7/7e/7e/Mrdirector.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Baloney the Dinosaur",
+      "voicedBy": "Jeff Bennett",
+      "gag": "Annoyingly cheerful kids' show host",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/3/3b/Baloney.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Starbox and Cindy",
+      "rebootSegment": true,
+      "description": "Tiny alien general trapped babysitting a toddler",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/4/4a/Starboxcindy.png/revision/latest?cb=20200310185802"
+    },
+    {
+      "name": "Nile and Nora",
+      "rebootSegment": true,
+      "description": "Parody of influencer culture",
+      "imageUrl": "https://static.wikia.nocookie.net/animaniacs/images/5/5f/Nora.png/revision/latest?cb=20200310185802"
+    }
+  ],
+  "notes": "All image URLs verified working as of December 2025.",
+  "lastUpdated": "2025-12-03"
+}
